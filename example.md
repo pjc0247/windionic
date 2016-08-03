@@ -1,6 +1,6 @@
 example
 ====
-`.Net` 어셈블리 빌드 -> 포스트 빌드 스크립트 -> 어셈블리로부터 `bridge.d.ts` 파일 생성 -> pppppppppppppaaaaaaaacckkk<br><br>
+`.Net` 어셈블리 빌드 -> 포스트 빌드 스크립트 / 빌드훅(자동) -> 어셈블리로부터 `bridge.d.ts` 파일 생성 -> pppppppppppppaaaaaaaacckkk<br><br>
 ![ex](example.gif)<br>
 ![ex](aa.png)<br>
 <Br>
