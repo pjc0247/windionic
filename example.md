@@ -1,6 +1,6 @@
 example
 ====
-
+![ex](example.gif)<br><Br>
 ```cs
 [Export]
 public class DeviceInfo
